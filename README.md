@@ -2,8 +2,8 @@
 Downlaod last release and run easily
 
 # PREVIEW
-<img src="https://prnt.sc/SH_fE7e2WWg1">
+<img src="https://i.imgur.com/Kgcgc6a.png">
 
 # Alert
 Use it on ur own risk. it's scanned 100% good **https://www.virustotal.com/**
-<img src="https://prnt.sc/ymXTs17XEU2t">
+<img src="https://i.imgur.com/8kTZQqL.png">
